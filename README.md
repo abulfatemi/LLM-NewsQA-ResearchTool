@@ -23,3 +23,10 @@ This project provides a streamlined interface for users to input URLs of news ar
 
 ![llm_news_articles](https://github.com/user-attachments/assets/5a454f8c-7dab-485b-94c6-abb5584a03bb)
 
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/2229ffa5-6af0-49cb-9550-ced7eda5e99e
+
+
